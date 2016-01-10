@@ -1,0 +1,18 @@
+﻿Build started 07-01-2016 10:00:58.
+     1>Project "E:\Danish\PICT Handover\Final-handover\Clothing Classification system\Clothing-Classification-system\Clothing-Classification-system\Clothing-Classification-system.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\Clothing-Classification-system.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Clothing-Classification-system.vcxproj -> E:\Danish\PICT Handover\Final-handover\Clothing Classification system\Clothing-Classification-system\x64\Debug\Clothing-Classification-system.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\Clothing-Classification-system.unsuccessfulbuild".
+         Touching "x64\Debug\Clothing-Classification-system.lastbuildstate".
+     1>Done Building Project "E:\Danish\PICT Handover\Final-handover\Clothing Classification system\Clothing-Classification-system\Clothing-Classification-system\Clothing-Classification-system.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.94

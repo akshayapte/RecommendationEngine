@@ -1,0 +1,3527 @@
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Orange.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Red.
+Pattern: Checks on shirt.
+
+Color of shirt: Yellow.
+
+Color of shirt: Yellow.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Yellow.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Yellow.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Aqua.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Yellow.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Yellow.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Green.
+
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Yellow.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: White.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: White.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Checks on shirt.
+
+Color of shirt: White.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Yellow.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+
+Color of shirt: Purple.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: White.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Pink.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+Color of trouser: White.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Yellow.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: White.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: White.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Yellow.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Orange.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Orange.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: White.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: White.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: White.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Red.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: White.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Red.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Red.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Aqua.
+
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Aqua.
+
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Aqua.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Grey.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: White.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Orange.
+Pattern: Horizontal lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Blue.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Red.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Aqua.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+Color of trouser: Black.
+
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Blue.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Blue.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Black.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Black.
+Pattern: Plain or Abstract T-shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+Color of trouser: Grey.
+
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.
+
+Color of shirt: Grey.
+Pattern: Vertical lines on shirt.
+
+Color of shirt: Black.
+Pattern: Checks on shirt.

@@ -1,0 +1,32 @@
+﻿Build started 06-08-2015 10:53:37.
+     1>Project "E:\Danish\PICT Handover\Final-handover\Clothing Classification system\Clothing-Classification-system\Clothing-Classification-system\Clothing-Classification-system.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Clothing-Classification-system.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\OpenCV\opencv\build\include\opencv2 /IC:\OpenCV\opencv\build\include\opencv /IC:\OpenCV\opencv\build\include\opencv2 /IC:\OpenCV\opencv\build\include\opencv /IC:\OpenCV\opencv\build\include\opencv2\highgui /IC:\OpenCV\opencv\build\include /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ImageUtils.cpp
+         ImageUtils.cpp
+     1>c:\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>e:\danish\pict handover\final-handover\clothing classification system\clothing-classification-system\clothing-classification-system\imageutils.cpp(29): warning C4101: 'imageRGB' : unreferenced local variable
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\OpenCV\opencv\build\include\opencv2 /IC:\OpenCV\opencv\build\include\opencv /IC:\OpenCV\opencv\build\include\opencv2\highgui /IC:\OpenCV\opencv\build\include /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\opencv\opencv\build\include\opencv2\legacy\blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\opencv\opencv\build\include\opencv2\legacy\blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>e:\danish\pict handover\final-handover\clothing classification system\clothing-classification-system\clothing-classification-system\main.cpp(215): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\danish\pict handover\final-handover\clothing classification system\clothing-classification-system\clothing-classification-system\main.cpp(292): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\danish\pict handover\final-handover\clothing classification system\clothing-classification-system\clothing-classification-system\main.cpp(410): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\danish\pict handover\final-handover\clothing classification system\clothing-classification-system\clothing-classification-system\main.cpp(487): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Danish\PICT Handover\Final-handover\Clothing Classification system\Clothing-Classification-system\Debug\Clothing-Classification-system.exe" /NOLOGO /LIBPATH:C:\OpenCV\opencv\build\x64\vc10\lib /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_nonfree248d.lib opencv_objdetect248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_videostab248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Clothing-Classification-system.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Danish\PICT Handover\Final-handover\Clothing Classification system\Clothing-Classification-system\Debug\Clothing-Classification-system.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Danish\PICT Handover\Final-handover\Clothing Classification system\Clothing-Classification-system\Debug\Clothing-Classification-system.lib" /MACHINE:X86 Debug\ImageUtils.obj
+         Debug\main.obj
+     1>LINK : fatal error LNK1104: cannot open file 'opencv_calib3d248d.lib'
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.targets(268,5): error MSB6006: "link.exe" exited with code 1104.
+     1>Done Building Project "E:\Danish\PICT Handover\Final-handover\Clothing Classification system\Clothing-Classification-system\Clothing-Classification-system\Clothing-Classification-system.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.43

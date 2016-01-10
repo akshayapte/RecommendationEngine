@@ -1,0 +1,24 @@
+﻿Build started 4/20/2015 2:46:33 PM.
+     1>Project "C:\Users\Tanveer\Documents\Visual Studio 2010\Projects\Clothing-Classification-system\Clothing-Classification-system\Clothing-Classification-system.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Release\Clothing-Classification-system.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IC:\OpenCV\opencv\build\include\opencv2 /IC:\OpenCV\opencv\build\include\opencv /IC:\OpenCV\opencv\build\include\opencv2\highgui /IC:\OpenCV\opencv\build\include\opencv /Zi /nologo /W3 /WX- /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>C:\OpenCV\opencv\build\include\opencv2/legacy/blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>C:\OpenCV\opencv\build\include\opencv2/legacy/blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+     1>main.cpp(291): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tanveer\Documents\Visual Studio 2010\Projects\Clothing-Classification-system\x64\Release\Clothing-Classification-system.exe" /NOLOGO /LIBPATH:C:\OpenCV\opencv\build\x64\vc10\lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib opencv_nonfree248.lib opencv_objdetect248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_ts248.lib opencv_video248.lib opencv_videostab248.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\Clothing-Classification-system.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Tanveer\Documents\Visual Studio 2010\Projects\Clothing-Classification-system\x64\Release\Clothing-Classification-system.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tanveer\Documents\Visual Studio 2010\Projects\Clothing-Classification-system\x64\Release\Clothing-Classification-system.lib" /MACHINE:X64 x64\Release\ImageUtils.obj
+         x64\Release\main.obj
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\Tanveer\Documents\Visual Studio 2010\Projects\Clothing-Classification-system\x64\Release\Clothing-Classification-system.exe'
+     1>Done Building Project "C:\Users\Tanveer\Documents\Visual Studio 2010\Projects\Clothing-Classification-system\Clothing-Classification-system\Clothing-Classification-system.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.67
