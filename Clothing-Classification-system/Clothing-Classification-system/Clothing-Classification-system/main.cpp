@@ -5,7 +5,6 @@
 
 #define WIN32_LEAN_AND_MEAN // Exclude rarely-used stuff from Windows headers
 #include <stdio.h>
-#include <conio.h>
 //#include <tchar.h>
 #include <cstdio>	// Used for "printf"
 #include <string>	// Used for C++ strings
@@ -14,15 +13,15 @@
 //#include <cmath>	// Used to calculate square-root for statistics
 
 // Include OpenCV libraries
-#include <cv.h>
-#include <cvaux.h>
-#include <cxcore.h>
-#include <highgui.h>
+#include "opencv/cv.h"
+#include "opencv/cvaux.h"
+#include "opencv/cxcore.h"
+#include "opencv/highgui.h"
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/core/core.hpp"
 
-#include "ImageUtils.h"		// Used for easy image cropping, resizing, rotating, etc.
+#include "ImageUtils.cpp"		// Used for easy image cropping, resizing, rotating, etc.
 using namespace std;
 using namespace cv;
 char key = NULL;
@@ -36,7 +35,7 @@ uchar cCTVal[NUM_COLOR_TYPES] =    {0,      255,    120,   255,   255,     255, 
 
 
 // Face Detection HaarCascade Classifier file for OpenCV
-const char* cascadeFileFace = "c:\\opencv\\haarcascades\\haarcascade_frontalface_alt.xml";	// Path to the Face Detection HaarCascade XML file
+const char* cascadeFileFace = "/home/Akshay-PC/touchmagix/project/RecommendationEngine/Clothing-Classification-system/haarcascades/haarcascade_frontalface_alt.xml";	// Path to the Face Detection HaarCascade XML file
 
 
 // Perform face or nose or mouth feature detection on the input image, using the given Haar cascade classifier.
@@ -129,12 +128,12 @@ int main(int argc, char **argv)
 	//***************File for DB output******************
 	ofstream myfile;
 		 
-	system("cls");
+	system("clear");
 	
 	cout << "Shirt Color Detection, by Power to the Pixel, 20th feb 2015." << endl;
 	cout << "usage: ShirtDetection [image_file]" << endl;
 
-	VideoCapture cap(1);
+//	VideoCapture cap(1); //this makes the external camera busy. This and cvCaptureFromCAM cannot be used together.
 	Mat save_img;
 	
 cvNamedWindow("Camera_Output", 1); //Create window
@@ -307,7 +306,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 			//cvInitFont(&font,CV_FONT_HERSHEY_PLAIN,0.55,0.7, 0,1,CV_AA);	// For OpenCV 1.1
 			cvInitFont(&font,CV_FONT_HERSHEY_PLAIN,0.8,1.0, 0,1, CV_AA);	// For OpenCV 2.0
 			char text[256];
-			sprintf_s(text, sizeof(text)-1, "%d%%", percentage);		
+			snprintf(text, sizeof(text)-1, "%d%%", percentage);		
 			cvPutText(imageDisplay, sCTypes[tallyMaxIndex], cvPoint(rectShirt.x, rectShirt.y + rectShirt.height + 12), &font, CV_RGB(255,0,0));
 			cvPutText(imageDisplay, text, cvPoint(rectShirt.x, rectShirt.y + rectShirt.height + 24), &font, CV_RGB(255,0,0));
 
@@ -503,7 +502,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 			//cvInitFont(&font,CV_FONT_HERSHEY_PLAIN,0.55,0.7, 0,1,CV_AA);	// For OpenCV 1.1
 			cvInitFont(&font,CV_FONT_HERSHEY_PLAIN,0.8,1.0, 0,1, CV_AA);	// For OpenCV 2.0
 			char text[256];
-			sprintf_s(text, sizeof(text)-1, "%d%%", percentage);		
+			snprintf(text, sizeof(text)-1, "%d%%", percentage);		
 			cvPutText(imageDisplay, sCTypes[tallyMaxIndex], cvPoint(recttrouser.x, recttrouser.y + recttrouser.height + 12), &font, CV_RGB(255,0,0));
 			cvPutText(imageDisplay, text, cvPoint(recttrouser.x, recttrouser.y + recttrouser.height + 24), &font, CV_RGB(255,0,0));
 
@@ -520,7 +519,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
     cvShowImage("Shirt&Trouser", imageDisplay);
 
 	// Pause
-	cvWaitKey(100);
+	cvWaitKey(1);
 	}
 	// Close everything
     cvDestroyWindow("Shirt&Trouser");
