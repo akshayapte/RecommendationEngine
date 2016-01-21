@@ -35,7 +35,7 @@ uchar cCTVal[NUM_COLOR_TYPES] =    {0,      255,    120,   255,   255,     255, 
 
 
 // Face Detection HaarCascade Classifier file for OpenCV
-const char* cascadeFileFace = "/home/Akshay-PC/touchmagix/project/RecommendationEngine/Clothing-Classification-system/haarcascades/haarcascade_frontalface_alt.xml";	// Path to the Face Detection HaarCascade XML file
+const char* cascadeFileFace = "../../haarcascades/haarcascade_frontalface_alt.xml";	// Path to the Face Detection HaarCascade XML file
 
 
 // Perform face or nose or mouth feature detection on the input image, using the given Haar cascade classifier.
@@ -61,7 +61,7 @@ vector<CvRect> findObjectsInImage(IplImage *origImg, CvHaarClassifierCascade* ca
 		std::cout << "Got greyscale img." << std::endl;
 		detectImg = greyImg;	// Use the greyscale version as the input.
 	}
-	
+
 	// Enhance / Normalise the image contrast (optional)
 	//cvEqualizeHist(detectImg, detectImg);
 
@@ -116,7 +116,7 @@ int getPixelColorType(int H, int S, int V)
 			color = cPURPLE;
 		else if (H < 175)
 			color = cPINK;
-		else	// full circle 
+		else	// full circle
 			color = cRED;	// back to Red
 	}
 	return color;
@@ -127,15 +127,15 @@ int main(int argc, char **argv)
 {
 	//***************File for DB output******************
 	ofstream myfile;
-		 
+
 	system("clear");
-	
+
 	cout << "Shirt Color Detection, by Power to the Pixel, 20th feb 2015." << endl;
 	cout << "usage: ShirtDetection [image_file]" << endl;
 
 //	VideoCapture cap(1); //this makes the external camera busy. This and cvCaptureFromCAM cannot be used together.
 	Mat save_img;
-	
+
 cvNamedWindow("Camera_Output", 1); //Create window
 CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected to your system
 
@@ -147,15 +147,15 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 		cv::waitKey(100);
 		exit(1);
 	}
-	
+
 	// Open the image, either as greyscale or color
 	while(1)
 	{
 	//cap >> imageIn;
-	
+
 	IplImage* imageIn = cvQueryFrame(capture); //Create image frames from capture
 	cvShowImage("Camera_Output", imageIn); //Show image frames on created window
-	
+
 	if (!imageIn) {
 		cerr << "Couldn't load image file '" << endl;
 		cv::waitKey(0);
@@ -168,7 +168,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 	}
 	std::cout << "(got a " << imageIn->width << "x" << imageIn->height << " color image)." << std::endl;
 	IplImage* imageDisplay = cvCloneImage(imageIn);
-	
+
 	// If trying to debug the color detector code, enable this:
 	#ifdef SHOW_DEBUG_IMAGE
 		// Create a HSV image showing the color types of the whole image, for debugging.
@@ -233,7 +233,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 
 		// If the shirt region goes partly below the image, try just a little below the face
 		bottom = rectShirt.y+rectShirt.height-1;
-		
+
 		 {
 
 			// Show the shirt region
@@ -293,12 +293,12 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 			cout << endl;
 			int percentage = initialConfidence * (tallyMaxCount * 100 / pixels);
 			cout << "Color of shirt: " << sCTypes[tallyMaxIndex] << " (" << percentage << "% confidence)." << endl << endl;
-			myfile.open ("Database.txt",ios::app);	
+			myfile.open ("Database.txt",ios::app);
 				if (myfile.is_open())
 				{
 				myfile << "\nColor of shirt: "<< sCTypes[tallyMaxIndex]<<".";
 				myfile<<endl;
-				
+
 				}
 				else cout << "DB write error";
 			// Display the color type over the shirt in the image.
@@ -306,30 +306,30 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 			//cvInitFont(&font,CV_FONT_HERSHEY_PLAIN,0.55,0.7, 0,1,CV_AA);	// For OpenCV 1.1
 			cvInitFont(&font,CV_FONT_HERSHEY_PLAIN,0.8,1.0, 0,1, CV_AA);	// For OpenCV 2.0
 			char text[256];
-			snprintf(text, sizeof(text)-1, "%d%%", percentage);		
+			snprintf(text, sizeof(text)-1, "%d%%", percentage);
 			cvPutText(imageDisplay, sCTypes[tallyMaxIndex], cvPoint(rectShirt.x, rectShirt.y + rectShirt.height + 12), &font, CV_RGB(255,0,0));
 			cvPutText(imageDisplay, text, cvPoint(rectShirt.x, rectShirt.y + rectShirt.height + 24), &font, CV_RGB(255,0,0));
 
-			
-			//***********************Pattern****************************			
+
+			//***********************Pattern****************************
 	{
 	//IplImage *pro = cropRectangle(imageIn, rectShirt);
 	Mat src = imageShirt;
 	int flag=0,flag1=0;
     Mat dst, cdst;
-    Canny(src, dst, 50, 200, 3); 
-    cvtColor(dst, cdst, CV_GRAY2BGR); 
- 
+    Canny(src, dst, 50, 200, 3);
+    cvtColor(dst, cdst, CV_GRAY2BGR);
+
     vector<Vec2f> lines;
     // detect lines
     HoughLines(dst, lines, 1, CV_PI/180, 30, 0, 0 );
- 
+
     // draw lines
     for( size_t i = 0; i < lines.size(); i++ )
     {
         float rho = lines[i][0], theta = lines[i][1];
         if( theta>CV_PI/180*170 || theta<CV_PI/180*10)
-        { 
+        {
 			Point pt1, pt2;
 			double a = cos(theta), b = sin(theta);
 			double x0 = a*rho, y0 = b*rho;
@@ -339,11 +339,11 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 			pt2.y = cvRound(y0 - 1000*(a));
             line( cdst, pt1, pt2, Scalar(243,16,43), 1, CV_AA);
 			flag=1;
-			
+
 
         }
 		else if( theta>CV_PI/180*80 && theta<CV_PI/180*100)
-		{ 
+		{
 			Point pt1, pt2;
 			double a = cos(theta), b = sin(theta);
 			double x0 = a*rho, y0 = b*rho;
@@ -385,7 +385,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 				}
 				else cout << "DB write error";
 		}
-	else 
+	else
 		{
 		cout<<"\n\nPlain or Abstract T-shirt";
 		if (myfile.is_open())
@@ -428,7 +428,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 
 		// If the trouser region goes partly below the image, try just a little below the face
 		bottom = recttrouser.y+recttrouser.height-1;
-		
+
 	 {
 
 			// Show the trouser region
@@ -488,7 +488,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 			cout << endl;
 			int percentage = initialConfidence * (tallyMaxCount * 100 / pixels);
 			cout << "Color of trouser: " << sCTypes[tallyMaxIndex] << " (" << percentage << "% confidence)." << endl << endl;
-				
+
 				if (myfile.is_open())
 				{
 				myfile << "Color of trouser: "<< sCTypes[tallyMaxIndex]<<".";
@@ -502,7 +502,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 			//cvInitFont(&font,CV_FONT_HERSHEY_PLAIN,0.55,0.7, 0,1,CV_AA);	// For OpenCV 1.1
 			cvInitFont(&font,CV_FONT_HERSHEY_PLAIN,0.8,1.0, 0,1, CV_AA);	// For OpenCV 2.0
 			char text[256];
-			snprintf(text, sizeof(text)-1, "%d%%", percentage);		
+			snprintf(text, sizeof(text)-1, "%d%%", percentage);
 			cvPutText(imageDisplay, sCTypes[tallyMaxIndex], cvPoint(recttrouser.x, recttrouser.y + recttrouser.height + 12), &font, CV_RGB(255,0,0));
 			cvPutText(imageDisplay, text, cvPoint(recttrouser.x, recttrouser.y + recttrouser.height + 24), &font, CV_RGB(255,0,0));
 
@@ -512,8 +512,8 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 			cvReleaseImage( &imagetrouser );
 		}//end if valid height
 	}//end for loop
-	
-	
+
+
 	// Display the RGB debugging image
 	cvNamedWindow("Shirt&Trouser", 1);
     cvShowImage("Shirt&Trouser", imageDisplay);
@@ -526,13 +526,13 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
     //cvReleaseImage(&imageDisplay);
 	//cvReleaseImage(&imageIn);
 	//cvWaitKey(2000);
-	
+
 	// Free resources.
 	cvReleaseHaarClassifierCascade( &cascadeFace );
-    
-    
+
+
 	cvReleaseCapture(&capture); //Release capture.
 	cvDestroyWindow("Camera_Output"); //Destroy Window
-	
+
 	return 0;
-} 
+}
