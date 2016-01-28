@@ -24,8 +24,7 @@
 #include "ImageUtils.cpp"		// Used for easy image cropping, resizing, rotating, etc.
 using namespace std;
 using namespace cv;
-char key = NULL;
-
+#define endl "\n"
 // Various color types for detected shirt colors.
 enum                             {cBLACK=0,cWHITE, cGREY, cRED, cORANGE, cYELLOW, cGREEN, cAQUA, cBLUE, cPURPLE, cPINK,  NUM_COLOR_TYPES};
 char* sCTypes[NUM_COLOR_TYPES] = {"Black", "White","Grey","Red","Orange","Yellow","Green","Aqua","Blue","Purple","Pink"};
@@ -55,10 +54,10 @@ vector<CvRect> findObjectsInImage(IplImage *origImg, CvHaarClassifierCascade* ca
 	IplImage *greyImg = 0;
 	if (origImg->nChannels > 1) {
 		greyImg = cvCreateImage(cvSize(origImg->width, origImg->height), 8, 1 );
-		std::cout << "[Converting detectImg " << greyImg->width << "x" << greyImg->height << "]" << std::endl;
+		cout << "[Converting detectImg " << greyImg->width << "x" << greyImg->height << "]" << endl;
 		printImageInfo(greyImg);
 		cvCvtColor( origImg, greyImg, CV_BGR2GRAY );
-		std::cout << "Got greyscale img." << std::endl;
+		cout << "Got greyscale img." << endl;
 		detectImg = greyImg;	// Use the greyscale version as the input.
 	}
 
@@ -70,7 +69,7 @@ vector<CvRect> findObjectsInImage(IplImage *origImg, CvHaarClassifierCascade* ca
                                         1.1, 2, CV_HAAR_DO_CANNY_PRUNING,
                                         minFeatureSize );	// Minimum face size changed from "cvSize(30, 30)"
 	t = (double)cvGetTickCount() - t;
-	std::cout << "detection time = " << t/((double)cvGetTickFrequency()*1000.) << "ms\n";
+	cout << "detection time = " << t/((double)cvGetTickFrequency()*1000.) << "ms\n";
 
 	// Get all the detected regions
 	for(int i = 0; i < (rects ? rects->total : 0); i++ )
@@ -78,9 +77,9 @@ vector<CvRect> findObjectsInImage(IplImage *origImg, CvHaarClassifierCascade* ca
         CvRect *r = (CvRect*)cvGetSeqElem( rects, i );
 
 		detRects.push_back(*r);
-		std::cout << "Found object at (" << r->x << ", " << r->y << ") of size (" << r->width << "x" << r->height << ").\n";
+		cout << "Found object at (" << r->x << ", " << r->y << ") of size (" << r->width << "x" << r->height << ").\n";
     }
-	std::cout << "Found " << detRects.size() << " objects." << std::endl;
+	cout << "Found " << detRects.size() << " objects." << endl;
 
 	//cvReleaseHaarClassifierCascade( &cascade );
 	if (greyImg)
@@ -125,6 +124,8 @@ int getPixelColorType(int H, int S, int V)
 // C/C++ entry point
 int main(int argc, char **argv)
 {
+	ios_base::sync_with_stdio(false);
+	cin.tie(0);
 	//***************File for DB output******************
 	ofstream myfile;
 
@@ -137,7 +138,7 @@ int main(int argc, char **argv)
 	Mat save_img;
 
 cvNamedWindow("Camera_Output", 1); //Create window
-CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected to your system
+CvCapture* capture = cvCaptureFromCAM(0); //Capture using any camera connected to your system
 
 	// Load the HaarCascade classifier for face detection.
 	cout << "Loading Face HaarCascade in '" << cascadeFileFace << "'" << endl;
@@ -166,7 +167,7 @@ CvCapture* capture = cvCaptureFromCAM(1); //Capture using any camera connected t
 		cv::waitKey(0);
 		exit(1);
 	}
-	std::cout << "(got a " << imageIn->width << "x" << imageIn->height << " color image)." << std::endl;
+	cout << "(got a " << imageIn->width << "x" << imageIn->height << " color image)." << endl;
 	IplImage* imageDisplay = cvCloneImage(imageIn);
 
 	// If trying to debug the color detector code, enable this:

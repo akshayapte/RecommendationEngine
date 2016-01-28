@@ -23,7 +23,7 @@
 using namespace std;
 
 
-// Returns a new image that is a cropped version of the original image. 
+// Returns a new image that is a cropped version of the original image.
 IplImage* cropRectangle(IplImage *img, CvRect region)
 {
 	IplImage *imageTmp,*imageRGB;
@@ -47,7 +47,7 @@ IplImage* cropRectangle(IplImage *img, CvRect region)
 	//imageRGB = cvCreateImage(size, IPL_DEPTH_8U, img->nChannels);
 	//cvCopy(imageTmp, imageRGB);	// Copy just the region.
 	//cvReleaseImage( &imageTmp );
-	return imageTmp;		
+	return imageTmp;
 }
 
 
@@ -81,7 +81,7 @@ IplImage* resizeImage(IplImage *origImg, int newWidth, int newHeight)
 		// Make the image smaller
 		//printf("Making the image smaller\n"); fflush(stdout);
 		cvResetImageROI(origImg);
-		cvResize(origImg, outImg, CV_INTER_AREA);	// CV_INTER_AREA is good for reduction / decimation.		
+		cvResize(origImg, outImg, CV_INTER_AREA);	// CV_INTER_AREA is good for reduction / decimation.
 	}
 	return outImg;
 }
@@ -102,8 +102,8 @@ IplImage *rotateImage(IplImage *src, IplImage* dst, float angle, float scale)
 	m[1] = (float)(scale * sin(angle));
 	m[3] = -m[1];
 	m[4] = m[0];
-	m[2] = w*0.5f;  
-	m[5] = h*0.5f;  
+	m[2] = w*0.5f;
+	m[5] = h*0.5f;
 
 	// Transform the image
 	cvGetQuadrangleSubPix( src, dst, &M);
@@ -167,7 +167,7 @@ void saveFloatImage(const char *filename, const IplImage *srcImg)
 void printImageInfo(IplImage *image_tile)
 {
 	if (image_tile)
-		std::cout << "Image: " << image_tile->width << "x" << image_tile->height << "px, " << image_tile->nChannels << "channels of " << image_tile->depth << "bit depth, ROI=[" << (int)image_tile->roi << "], widthStep=" << image_tile->widthStep << endl;
+		std::cout << "Image: " << image_tile->width << "x" << image_tile->height << "px, " << image_tile->nChannels << "channels of " << image_tile->depth << "bit depth, ROI=[" << image_tile->roi << "], widthStep=" << image_tile->widthStep << endl;
 	else
 		std::cout << "Image: <null>" << endl;
 }
