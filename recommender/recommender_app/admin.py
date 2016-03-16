@@ -1,3 +1,9 @@
 from django.contrib import admin
+from recommender_app.models import *
 
-# Register your models here.
+admin.site.register(User)
+admin.site.register(Garment)
+admin.site.register(Transaction)
+admin.site.register(Brand)
+admin.site.register(Inventory)
+admin.site.register(Promotions)
