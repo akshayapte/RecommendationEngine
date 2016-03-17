@@ -9,4 +9,5 @@ urlpatterns = [
 
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', 'recommender_app.views.home'),
+    url(r'^garment/$', 'recommender_app.views.garment_recommender'),
 ]

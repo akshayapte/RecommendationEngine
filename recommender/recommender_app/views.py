@@ -6,3 +6,6 @@ def home(request):
     garments = Garment.objects.all()
     context['garments'] = garments
     return render(request, 'home.html', context)
+
+def garment_recommender(request):
+    
