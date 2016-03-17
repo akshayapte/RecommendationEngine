@@ -10,7 +10,7 @@ def get_similar_items(item):
     garment_sub_type_upper_idx = ['Shirt', 'Tee', 'Jacket', 'Polo']
     garment_sub_type_lower_idx = ['Jeans', 'Chinos', 'Shorts', 'Tracks']
     fit_upper_idx = ['Slim', 'Custom', 'Regular', 'Sport']
-    fit_lower_idx = ['Slim', 'Narrow', 'Custom', 'Regular', 'Tight']
+    fit_lower_idx = ['Slim', 'Narrow', 'Custom', 'Regular']
     colors = {
               'Black'       :[100, 20, 60, 30, 40, 40, 50, 30, 30, 70, 80, 80],
               'White'       :[20, 100, 50, 40, 60, 50, 50, 60, 50, 30, 40, 30],
@@ -77,7 +77,7 @@ def get_similar_items(item):
                         'Slim'      :[100, 50, 50, 80],
                         'Custom'    :[50, 100, 80, 50],
                         'Regular'   :[50, 80, 100, 40],
-                        'Narrow'     :[80, 50, 40, 100]
+                        'Narrow'    :[80, 50, 40, 100]
                     }
 
     garment_sub_type_scale = 55
@@ -137,18 +137,24 @@ def get_similar_items(item):
         pattern_q = float( patterns[item.pattern][patterns_idx.index(g.pattern)] / 100 ) * pattern_scale
         if item.garment_type == 'Upper':
             fit_q = float( fit_upper[item.fit][fit_upper_idx.index(g.fit)] / 100 ) * fit_scale
-        else:
+        elif item.garment_type == 'Lower':
             fit_q = float( fit_lower[item.fit][fit_lower_idx.index(g.fit)] / 100 ) * fit_scale
         if item.garment_type == 'Upper':
             if g.neckline == item.neckline:
                 neckline_q = float(10)
-            else:
+            else:		
                 neckline_q = float(0)
             if g.sleeves == item.sleeves:
                 sleeves_q = float(10)
             else:
                 sleeves_q = float(0)
+        else:
+        	neckline_q = float(10)
+        	sleeves_q = float(10)
+
         r_quotient = float(garment_sub_type_q + clothing_type_q + brand_q + color_q + pattern_q + fit_q + neckline_q + sleeves_q)
+        print g.id
+        print garment_sub_type_q, clothing_type_q, brand_q, color_q , pattern_q, fit_q , neckline_q, sleeves_q
         r_quotient = float( r_quotient / total_scale ) * 100
         r_quotient = round(r_quotient, 2)
         recommended_garments[g] = r_quotient
