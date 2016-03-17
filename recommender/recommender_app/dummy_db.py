@@ -22,6 +22,14 @@ def populate():
 
     for brand in brand_names:
         for c_type in clothing_types:
+            if brand == 'Nike' or brand == 'Adidas' or brand == 'Puma':
+                if c_type != 'Sports':
+                    continue
+
+            if brand == 'Allen Solly' or brand == 'Peter England' or brand == 'Louis Philippe' or brand == 'Max':
+                if c_type == 'Sports':
+                    continue
+
             if not Brand.objects.filter(name=brand, clothing_type=c_type).exists():
                 obj = Brand(name=brand, clothing_type=c_type)
                 obj.save()
@@ -68,6 +76,24 @@ def populate():
         l_fit = fits[l_garment_type][random.randint(0, len(fits[l_garment_type])-1)]
         l_brand = brands[random.randint(0, len(brands)-1)]
         l_price = random.randint(700,2500)
+
+        if l_brand.clothing_type == 'Formals' and l_garment_type == 'Upper':
+            l_garment_sub_type = 'Shirt'
+        if l_brand.clothing_type == 'Formals' and l_garment_type == 'Lower':
+            l_garment_sub_type == 'Chinos'
+
+        if l_brand.clothing_type == 'Sports' and l_garment_type == 'Upper':
+            while l_garment_sub_type == 'Shirt':
+                l_garment_sub_type = garment_sub_types[l_garment_type][random.randint(0, len(garment_sub_types[l_garment_type])-1)]
+
+        if l_brand.clothing_type == 'Sports' and l_garment_type == 'Lower':
+            while l_garment_sub_type == 'Jeans' or l_garment_sub_type == 'Chinos':
+                l_garment_sub_type = garment_sub_types[l_garment_type][random.randint(0, len(garment_sub_types[l_garment_type])-1)]
+
+        if l_brand.clothing_type == 'Party' and l_garment_type == 'Lower':
+            while l_garment_sub_type == 'Shorts' or l_garment_sub_type == 'Tracks':
+                l_garment_sub_type = garment_sub_types[l_garment_type][random.randint(0, len(garment_sub_types[l_garment_type])-1)]
+
         g_obj = Garment(name=l_brand.name+':'+l_brand.clothing_type+':'+l_pattern,
                         color_1=l_color_1, color_2=l_color_2, garment_type=l_garment_type,
                         garment_sub_type=l_garment_sub_type, pattern=l_pattern,
