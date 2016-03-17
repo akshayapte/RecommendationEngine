@@ -54,7 +54,7 @@ def populate():
                 'Lower' : ['NA'] }
 
     fits = {'Upper' : ['Slim', 'Custom', 'Regular', 'Sport'],
-            'Lower' : ['Slim', 'Narrow', 'Custom', 'Regular', 'Tight'] }
+            'Lower' : ['Slim', 'Custom', 'Regular', 'Narrow'] }
 
     for i in range(500):
         print i+1

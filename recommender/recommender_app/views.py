@@ -9,7 +9,8 @@ def home(request):
     return render(request, 'home.html', context)
 
 def garment_recommender(request):
-	context = {}
-	context['recommended_garments'] = get_similar_items()
-	return render(request, 'recommender.html', context)
-    
+
+    context = {}
+    r_list = get_similar_items(Garment.objects.get(id=request.GET['id']))
+    context['recommended_garments'] = r_list
+    return render(request, 'garment_recommender.html', context)
