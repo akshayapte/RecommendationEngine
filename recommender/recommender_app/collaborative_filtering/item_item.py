@@ -10,7 +10,7 @@ def get_similar_items(item):
     garment_sub_type_upper_idx = ['Shirt', 'Tee', 'Jacket', 'Polo']
     garment_sub_type_lower_idx = ['Jeans', 'Chinos', 'Shorts', 'Tracks']
     fit_upper_idx = ['Slim', 'Custom', 'Regular', 'Sport']
-    fit_lower_idx = ['Slim', 'Narrow', 'Custom', 'Regular']
+    fit_lower_idx = ['Slim', 'Custom' , 'Regular' ,'Narrow']
     colors = {
               'Black'       :[100, 20, 60, 30, 40, 40, 50, 30, 30, 70, 80, 80],
               'White'       :[20, 100, 50, 40, 60, 50, 50, 60, 50, 30, 40, 30],
