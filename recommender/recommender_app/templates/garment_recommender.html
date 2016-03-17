@@ -31,7 +31,10 @@
             <div class="col-lg-12">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        Garment #{{garment.0.id}} for {{garment.0.gender}}
+                        {% if id == garment.0.id %} Items Recommended for this garment
+                        {% else %} Garment #{{garment.0.id}} for {{garment.0.gender}}
+                        {% endif %}
+
                         <div class="pull-right">
                             Popularity : {{garment.1}}%
                           </div>
@@ -94,7 +97,8 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <button class="btn btn-primary" type="button" name="button" onclick="window.location='./garment/?id={{garment.0.id}}';">Select</button>
+                            <button class="btn btn-primary" type="button" name="button" onclick="window.location='/garment/?id={{garment.0.id}}';">Select</button>
+                            <button class="btn btn-success" type="button" name="button" onclick="window.location='/buy/?main_id={{id}}&r_id={{garment.0.id}}';">Buy</button>
                         </div>
                         <!-- /.table-responsive -->
                     </div>

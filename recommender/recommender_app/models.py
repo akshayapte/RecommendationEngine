@@ -59,3 +59,11 @@ class Transaction(models.Model):
     promotion = models.ForeignKey(Promotions, null=True, default=None)
     def __str__(self):
 		return str(self.user) + '-' + str(self.garment)
+
+class ItemtoItem(models.Model):
+    main_garment = models.ForeignKey(Garment, related_name="main_garment")
+    recommended_garment = models.ForeignKey(Garment, related_name="recommended_garment")
+    count = models.IntegerField()
+
+    def __str__(self):
+		return str(self.main_garment) + '-' + str(self.recommended_garment) + ':' + str(self.count)

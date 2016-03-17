@@ -80,16 +80,17 @@ def get_similar_items(item):
                         'Narrow'    :[80, 50, 40, 100]
                     }
 
-    garment_sub_type_scale = 55
-    clothing_type_scale = 50
-    brand_scale = 50
-    color_scale = 30
-    pattern_scale = 20
-    fit_scale = 25
-    sleeves_scale = 10
-    neckline_scale = 10
+    garment_sub_type_scale = 55.0
+    clothing_type_scale = 50.0
+    brand_scale = 50.0
+    color_scale = 30.0
+    pattern_scale = 20.0
+    fit_scale = 25.0
+    sleeves_scale = 10.0
+    neckline_scale = 10.0
+    markhov_scale = 50.0
 
-    total_scale = garment_sub_type_scale + clothing_type_scale + brand_scale + color_scale + pattern_scale + fit_scale + sleeves_scale + neckline_scale
+    total_scale = garment_sub_type_scale + clothing_type_scale + brand_scale + color_scale + pattern_scale + fit_scale + sleeves_scale + neckline_scale + markhov_scale
     recommended_garments = []
     recommended_garments.append(item)
 
@@ -128,35 +129,45 @@ def get_similar_items(item):
     recommended_garments = {}
     for g in garments:
         if item.garment_type == 'Upper':
-            garment_sub_type_q = float( garment_sub_type_upper[item.garment_sub_type][garment_sub_type_upper_idx.index(g.garment_sub_type)] / 100 ) * garment_sub_type_scale
+            garment_sub_type_q = float( garment_sub_type_upper[item.garment_sub_type][garment_sub_type_upper_idx.index(g.garment_sub_type)] / 100.0 ) * garment_sub_type_scale
         else:
-            garment_sub_type_q = float( garment_sub_type_lower[item.garment_sub_type][garment_sub_type_lower_idx.index(g.garment_sub_type)] / 100 ) * garment_sub_type_scale
-        clothing_type_q = float( clothing_type[item.brand.clothing_type][clothing_type_idx.index(g.brand.clothing_type)] / 100 ) * clothing_type_scale
-        brand_q = float( brand_names[item.brand.name][brand_idx.index(g.brand.name)] / 100 ) * brand_scale
-        color_q = float( colors[item.color_1][color_idx.index(g.color_1)] / 100 ) * color_scale
-        pattern_q = float( patterns[item.pattern][patterns_idx.index(g.pattern)] / 100 ) * pattern_scale
+            garment_sub_type_q = float( garment_sub_type_lower[item.garment_sub_type][garment_sub_type_lower_idx.index(g.garment_sub_type)] / 100.0 ) * garment_sub_type_scale
+        clothing_type_q = float( clothing_type[item.brand.clothing_type][clothing_type_idx.index(g.brand.clothing_type)] / 100.0 ) * clothing_type_scale
+        brand_q = float( brand_names[item.brand.name][brand_idx.index(g.brand.name)] / 100.0 ) * brand_scale
+        color_q = float( colors[item.color_1][color_idx.index(g.color_1)] / 100.0 ) * color_scale
+        pattern_q = float( patterns[item.pattern][patterns_idx.index(g.pattern)] / 100.0 ) * pattern_scale
         if item.garment_type == 'Upper':
-            fit_q = float( fit_upper[item.fit][fit_upper_idx.index(g.fit)] / 100 ) * fit_scale
+            fit_q = float( fit_upper[item.fit][fit_upper_idx.index(g.fit)] / 100.0 ) * fit_scale
         elif item.garment_type == 'Lower':
-            fit_q = float( fit_lower[item.fit][fit_lower_idx.index(g.fit)] / 100 ) * fit_scale
+            fit_q = float( fit_lower[item.fit][fit_lower_idx.index(g.fit)] / 100.0 ) * fit_scale
         if item.garment_type == 'Upper':
             if g.neckline == item.neckline:
-                neckline_q = float(10)
-            else:		
-                neckline_q = float(0)
-            if g.sleeves == item.sleeves:
-                sleeves_q = float(10)
+                neckline_q = float(10.0)
             else:
-                sleeves_q = float(0)
+                neckline_q = float(0.0)
+            if g.sleeves == item.sleeves:
+                sleeves_q = float(10.0)
+            else:
+                sleeves_q = float(0.0)
         else:
-        	neckline_q = float(10)
-        	sleeves_q = float(10)
+        	neckline_q = float(10.0)
+        	sleeves_q = float(10.0)
 
-        r_quotient = float(garment_sub_type_q + clothing_type_q + brand_q + color_q + pattern_q + fit_q + neckline_q + sleeves_q)
-        print g.id
-        print garment_sub_type_q, clothing_type_q, brand_q, color_q , pattern_q, fit_q , neckline_q, sleeves_q
-        r_quotient = float( r_quotient / total_scale ) * 100
+        if ItemtoItem.objects.filter(main_garment = item, recommended_garment = g ).exists():
+            itemtoitem_obj = ItemtoItem.objects.get(main_garment = item, recommended_garment = g )
+            count = itemtoitem_obj.count
+            if count > 50:
+                markhov_q = markhov_scale
+            else:
+                markhov_q = float(count/50.00)*markhov_scale
+        else:
+            markhov_q = 0
+        r_quotient = float(garment_sub_type_q + clothing_type_q + brand_q + color_q + pattern_q + fit_q + neckline_q + sleeves_q + markhov_q)
+        r_quotient = float( r_quotient / total_scale ) * 100.0
         r_quotient = round(r_quotient, 2)
-        recommended_garments[g] = r_quotient
+        if g == item:
+            recommended_garments[g] = 100
+        else:
+            recommended_garments[g] = r_quotient
     recommended_garments = sorted(recommended_garments.items(), key=operator.itemgetter(1), reverse=True)
     return recommended_garments
