@@ -1,13 +1,14 @@
 from recommender_app.models import *
 from random import randrange
 from datetime import timedelta
+from datetime import datetime
 from itertools import combinations
 from time import sleep
-import sys, math, random, datetime
+import sys, math, random, time
 import string
 def random_date(start, end):
     """
-    This function will return a random datetime between two datetime 
+    This function will return a random datetime between two datetime
     objects.
     """
     delta = end - start
@@ -16,7 +17,7 @@ def random_date(start, end):
     return start + timedelta(seconds=random_second)
 
 def populate():
-    brand_names = ['Nike', 'Adidas', 'Puma', 'Reebok', 'Alley Solly', 'Peter England', 'Louis Philippe', 'Abercrombie', 'Roadster', 'Max', 'FCUK', 'Provogue']
+    brand_names = ['Nike', 'Adidas', 'Puma', 'Alley Solly', 'Peter England', 'Louis Philippe', 'Max']
     clothing_types = ['Casual', 'Sports', 'Formal', 'Party']
 
     for brand in brand_names:
@@ -25,7 +26,7 @@ def populate():
                 obj = Brand(name=brand, clothing_type=c_type)
                 obj.save()
     brands = Brand.objects.all()
-    colors = ['Black', 'White', 'Red', 'Green', 'Blue', 'Cyan', 'Megenta', 'Yellow', 'Pink', 'Navy Blue', 'Gray', 'Brown']
+    colors = ['Black', 'White', 'Red', 'Green', 'Blue', 'Cyan', 'Orange', 'Yellow', 'Pink', 'Navy Blue', 'Gray', 'Brown']
     garment_types = ['Upper', 'Lower']
     garment_sub_types = {'Upper' : ['Shirt', 'Tee', 'Jacket', 'Polo'],
                         'Lower' : ['Jeans', 'Chinos', 'Shorts', 'Tracks'] }
@@ -47,7 +48,7 @@ def populate():
     fits = {'Upper' : ['Slim', 'Custom', 'Regular', 'Sport'],
             'Lower' : ['Slim', 'Narrow', 'Custom', 'Regular', 'Tight'] }
 
-    for i in range(100):
+    for i in range(500):
         print i+1
         l_color_idx_1 = random.randint(0, len(colors)-1)
         l_color_idx_2 = random.randint(0, len(colors)-1)
@@ -78,10 +79,11 @@ def populate():
 def insert_users(n=105):
     print "Adding Users...",
     n+=1
-    f = open("dummy_db/students.txt", "r+")
+    f = open("recommender_app/students.txt", "r+")
     stu_list = f.readlines()
     length = n-1
     for i,stu in enumerate(stu_list):
+        print "user: ",i
         n-=1;
         if n <= 0:
             break
@@ -94,23 +96,18 @@ def insert_users(n=105):
         email = line[5]
         phone_number = line[6]
         gender = line[7].rstrip('\n')
-        if not User.objects.filter(name=first_name+last_name).exists():
-            user_obj = User(name=first_name+last_name, email=email, phone_number=phone_number, gender=gender, birth_date = models.DateField())
+        if not User.objects.filter(name=first_name + ' ' + last_name).exists():
+            d1 = datetime.strptime('1/1/1974 1:30 PM', '%m/%d/%Y %I:%M %p')
+            d2 = datetime.strptime('1/1/1995 4:50 AM', '%m/%d/%Y %I:%M %p')
+            bd = random_date(d1, d2)
+            user_obj = User(name=first_name + ' ' + last_name, email=email, phone_number=phone_number, gender=gender, birth_date = bd)
             user_obj.save()
     f.close()
     print ""
 
 
 def main():
-    d1 = datetime.strptime('1/1/1974 1:30 PM', '%m/%d/%Y %I:%M %p')
-    d2 = datetime.strptime('1/1/1995 4:50 AM', '%m/%d/%Y %I:%M %p')
+    insert_users();
+    populate();
 
-    print random_date(d1, d2)    
-    user_obj = User(name=first_name+last_name, email=email, phone_number=phone_number, gender=gender, birth_date = random_date(d1, d2))
-    user_obj.save()
-
-
-
-if __name__ == "__main__":
-    print "hrre"
-    main()        
+main()
