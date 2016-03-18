@@ -11,4 +11,5 @@ urlpatterns = [
     url(r'^$', 'recommender_app.views.home'),
     url(r'^garment/$', 'recommender_app.views.garment_recommender'),
     url(r'^buy/$', 'recommender_app.views.buy'),
+    url(r'^camera/$', 'recommender_app.views.camera'),
 ]

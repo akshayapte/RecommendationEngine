@@ -34,7 +34,7 @@ def populate():
                 obj = Brand(name=brand, clothing_type=c_type)
                 obj.save()
     brands = Brand.objects.all()
-    colors = ['Black', 'White', 'Red', 'Green', 'Blue', 'Cyan', 'Orange', 'Yellow', 'Pink', 'Navy Blue', 'Gray', 'Brown']
+    colors = ['Black', 'White', 'Red', 'Green', 'Blue', 'Aqua', 'Orange', 'Yellow', 'Pink', 'Navy Blue', 'Gray', 'Brown']
     garment_types = ['Upper', 'Lower']
     garment_sub_types = {'Upper' : ['Shirt', 'Tee', 'Jacket', 'Polo'],
                         'Lower' : ['Jeans', 'Chinos', 'Shorts', 'Tracks'] }

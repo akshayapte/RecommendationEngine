@@ -11,9 +11,13 @@ def home(request):
 def garment_recommender(request):
 
     context = {}
-    r_list = get_similar_items(Garment.objects.get(id=request.GET['id']))
-    context['recommended_garments'] = r_list
-    context['id'] = int(request.GET['id'])
+    if 'id' in request.GET:
+        r_list = get_similar_items(Garment.objects.get(id=request.GET['id']))
+        context['recommended_garments'] = r_list
+        context['id'] = int(request.GET['id'])
+    elif 'pattern' and 'color' in request.GET:
+        r_list = get_similar_items(pattern=request.GET['pattern'], color=request.GET['color'])
+        context['recommended_garments'] = r_list
     return render(request, 'garment_recommender.html', context)
 
 def buy(request):
@@ -50,3 +54,12 @@ def buy(request):
     r_id = temp
 
     return redirect('/garment/?id='+str(main_id))
+
+
+def camera(request):
+
+    op = open("/home/akshayapte/recommender/RecommendationEngine/recommender/recommender_app/camera_output.txt", "r+")
+    lines = op.readlines()
+    pattern = lines[0].rstrip('\n')
+    color = lines[1].rstrip('\n')
+    return redirect("/garment/?pattern=" + pattern + "&color=" + color)
